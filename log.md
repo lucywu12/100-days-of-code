@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: December 23, 2020
-##### (delete me or comment me out)
 
 **Today's Progress**: Forked the 100 Day challenge!
 
@@ -9,17 +8,16 @@
 
 **Link to work:** [100 Days of Code Website](https://www.100daysofcode.com/)
 
-### Day 1: December 24, 2020 (Example 2)
-##### (delete me or comment me out)
+### Day 1: December 24, 2020
 
 **Today's Progress**: Trying to piece together how GitHub works exactly... especially linking my projects. As long as it works as my daily log though, I can figure out how to link my projects later. I believe I created a local repository? 
 
 **Thoughts**: It's already hard but I'm not going to quit! Sometimes figuring out how things work is more than half the battle...
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [app.py](fa7b94378430daad85e6d9f236f03068c14aea8d)
 
 
-### Day 1: June 27, Monday
+### Day 2: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 

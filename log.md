@@ -10,11 +10,13 @@
 
 ### Day 1: December 24, 2020
 
-**Today's Progress**: Trying to piece together how GitHub works exactly... especially linking my projects. As long as it works as my daily log though, I can figure out how to link my projects later. I believe I created a local repository? 
+**Today's Progress**: Trying to piece together how GitHub works exactly... especially linking my projects. As long as it works as my daily log though, I can figure out how to link my projects later. I believe I created a local repository? I learned a few things from Mosh about functions vs methods in Python which was exciting and interesting for me
 
 **Thoughts**: It's already hard but I'm not going to quit! Sometimes figuring out how things work is more than half the battle... I have no idea if this is how I should link to files on Github, but this is apparently how it makes sense to me... I will make commits to that original file and date them appropriately so I can look back on my work.
 
-**Link(s) to work**: [app.py](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+**Link(s) to work**: 
+[app.py](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+[Mosh's Python Tutorial] https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
 
 ### Day 2: June 27, Monday

@@ -1,6 +1,6 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Daily Log
 
-### Day 0: December 23, 2020
+### Day 0: December 23, 2020, Wednesday
 
 **Today's Progress**: Forked the 100 Day challenge!
 
@@ -8,7 +8,7 @@
 
 **Link to work:** [100 Days of Code Website](https://www.100daysofcode.com/)
 
-### Day 1: December 24, 2020
+### Day 1: December 24, 2020, Thursday
 
 **Today's Progress**: Trying to piece together how GitHub works exactly... especially linking my projects. As long as it works as my daily log though, I can figure out how to link my projects later. I believe I created a local repository? I learned a few things from Mosh about functions vs methods in Python which was exciting and interesting for me
 
@@ -16,15 +16,15 @@
 
 **Link(s) to work**: 
 [app.py](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
-[Mosh's Python Tutorial] https://www.youtube.com/watch?v=_uQrJ0TkZlc
+[Mosh's Python Tutorial](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 
 
-### Day 2: June 27, Monday
+### Day 2: December 25, 2020, Friday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Some steady progress! Today I learned about arithmetic rules, if statements, and conditional operators. I've made it to 1:16:24 in Mosh's video (Project: Weight Converter)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Everything is still pretty easy thus far, but I like Python. It's cute :) and definitely much easier to tackle than other things I've tried before. Still, I'm getting a lot of joy from listening to Mosh and appreciating the little things. Being able to code the tiny/easy projects he explains in the video without too much difficulty is gratifying, and it shows how much attempting to learn to code in the past helps with learning future languages/intuitive thinking, even if I didn't "master" previous languages (or stick with them...)
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+We did other things today, but here's the last thing I left off with:
+[12/25 Name Length Calculator](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

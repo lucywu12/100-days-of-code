@@ -39,3 +39,12 @@ We did other things today, but here's the last thing I left off with:
 **Link(s) to work**:
 [12/26 Weight Calculator + While Loops](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
 
+
+### Day 4: December 27, 2020, Sunday
+
+**Today's Progress**: I was a little tired today and procrastinated too much (haha) so I did a small project, the Car Game. Now I'm up to 1:41:55 in Mosh's video (Project: For Loops)
+
+**Thoughts**: It was a little confusing but I got most of the way there. The hardest part about coding is the logical thinking and then using this strange language to help get you there.
+
+**Link(s) to work**:
+[12/27 Car Game](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

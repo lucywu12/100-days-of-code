@@ -48,3 +48,12 @@ We did other things today, but here's the last thing I left off with:
 
 **Link(s) to work**:
 [12/27 Car Game](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+
+### Day 5: December 28, 2020, Monday
+
+**Today's Progress**: I relearned for loops again (very fun now that I actually understand how to use them properly) and created a shopping cart calculator. Really tired, but now I'm up to 1:47:55 in Mosh's video (Project: Nested Loops)
+
+**Thoughts**: There are definitely many moments where I have a feeling of 'I can't do this' but I think my intutition is really pulling me through. This was an 'easy' calculator to create, but I still had a moment where I thought I wouldn't be able to do it and I would have to look at the solution prematurely. I'm glad I persevered though. :)
+
+**Link(s) to work**:
+[12/28 Cost Calculator](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

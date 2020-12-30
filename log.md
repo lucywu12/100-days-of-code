@@ -49,6 +49,7 @@ We did other things today, but here's the last thing I left off with:
 **Link(s) to work**:
 [12/27 Car Game](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
 
+
 ### Day 5: December 28, 2020, Monday
 
 **Today's Progress**: I relearned for loops again (very fun now that I actually understand how to use them properly) and created a shopping cart calculator. Really tired, but now I'm up to 1:47:55 in Mosh's video (Project: Nested Loops)
@@ -57,3 +58,13 @@ We did other things today, but here's the last thing I left off with:
 
 **Link(s) to work**:
 [12/28 Cost Calculator](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+
+
+### Day 6: December 29, 2020, Tuesday
+
+**Today's Progress**: I learned about Nested Loops (fun but need some more practice) and Lists. I'm up to 2:01:55 in Mosh's video (Project: 2D Lists)
+
+**Thoughts**: This was really fun but I was sad I couldn't solve Mosh's X printing exercise without looking at the solution :( For the greatest number calculator, my thinking was correct but I didn't quite execute it well enough...
+
+**Link(s) to work**:
+[12/29 Nested Loops + Lists](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

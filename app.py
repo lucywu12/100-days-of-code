@@ -1,23 +1,17 @@
-# 12/29 Nested Loops + Lists
-# This is my solution, which is not what Mosh wanted :(
-numbers = [5, 2, 5, 2, 2]
+# 12/30 Remove Duplicates
+# My method but this still leads to duplicates :(
+numbers = [3, 754, 12, 7, 2, 2, 2, 2, 7, 754]
+i = ''
+for i in numbers:
+    duplicate = numbers.count(i)
+    if duplicate > 1:
+        numbers.remove(i)
+print(numbers)
 
-for times in numbers:
-    print('x'* times)
-
-# This is the 'correct' solution
-numbers = [5, 2, 5, 2, 2]
-for x_count in numbers:
-    output = ''
-    for count in range(x_count):
-        output += 'x'
-    print(output)
-
-#Greatest number calculator
-numbers_list = [123, 67, 2, 942]
-max = numbers_list[0]
-
-for i in numbers_list:
-    if i > max:
-        max = i
-print(max)
+# Mosh's Solution
+numbers = [2, 2, 4, 6, 3, 4, 6, 1]
+uniques = []
+for number in numbers:
+    if number no in uniques:
+        uniques.append(number)
+print(uniques)

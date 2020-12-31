@@ -68,3 +68,13 @@ We did other things today, but here's the last thing I left off with:
 
 **Link(s) to work**:
 [12/29 Nested Loops + Lists](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+
+
+### Day 7: December 30, 2020, Wednesday
+
+**Today's Progress**: Today I learned about 2D Lists and their methods. I'm up to 2:13:34 in Mosh's video (Project: Tuples)
+
+**Thoughts**: Today's exercise was ok up until I realized that for some reason my program didn't quite work the way I wanted it to... strange but I guess that's how it is sometimes. I also need to start coding earlier in the day because this is not working well.
+
+**Link(s) to work**:
+[12/30 Remove Duplicates](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

@@ -78,3 +78,13 @@ We did other things today, but here's the last thing I left off with:
 
 **Link(s) to work**:
 [12/30 Remove Duplicates](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+
+
+### Day 8: December 31, 2020, Thursday
+
+**Today's Progress**: Today I learned about Tuples and Unpacking them. I'm up to 2:18:32 in Mosh's video (Project: Dictionaries)
+
+**Thoughts**: Today I was really hungry so I cut my programming session short (haha). Learning about tuples was a new and interesting experience for me however! And unpacking was so cool. Looking forward to a new year full of coding!
+
+**Link(s) to work**:
+[12/31 Tuples + Unpacking](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

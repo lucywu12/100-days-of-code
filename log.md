@@ -88,3 +88,13 @@ We did other things today, but here's the last thing I left off with:
 
 **Link(s) to work**:
 [12/31 Tuples + Unpacking](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+
+
+### Day 9: January 2, 2020, Saturday
+
+**Today's Progress**: Today I learned about Dictionaries. I'm up to 2:26:32 in Mosh's video (Project: Emoji Converter)
+
+**Thoughts**: Really exciting things today!
+
+**Link(s) to work**:
+[1/2 Dictionaries](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

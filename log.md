@@ -94,7 +94,7 @@ We did other things today, but here's the last thing I left off with:
 
 **Today's Progress**: Today I learned about Dictionaries. I'm up to 2:26:32 in Mosh's video (Project: Emoji Converter)
 
-**Thoughts**: Really exciting things today!
+**Thoughts**: Sadly I had to skip yesterday because I was so tired :(. However, I came back to learning today! I should learn to never underestimate the value of an empty string. I was on the right track today, it was just a little confusing as to how to create and use the dictionary but I'm sure I'll pick it up with a little more practice.
 
 **Link(s) to work**:
 [1/2 Dictionaries](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

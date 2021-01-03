@@ -1,6 +1,14 @@
-# 12/31 Tuples + Unpacking
-#Tuples use parentheses instad of brackets!
-coordinate = (1, 2, 3)
-# This is what's happening: x = coordinate[0], y = coordinate[1], z = coordinate[2]
-x, y, z = coordinate
-# Unpacking gives us a nice shortcut!
+# 1/2 Dictionaries
+
+Phone_number = input("Phone: ")
+
+Number = {
+    "1": "One",
+    "2": "Two",
+    "3": "Three",
+    "4": "Four"
+}
+output = ""
+for num in Phone_number:
+    output += Number.get(num, "!") + " "
+print(output)

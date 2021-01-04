@@ -1,14 +1,11 @@
-# 1/2 Dictionaries
-
-Phone_number = input("Phone: ")
-
-Number = {
-    "1": "One",
-    "2": "Two",
-    "3": "Three",
-    "4": "Four"
+# 1/3 Emoji Converter
+message = input(">")
+words = message.split(' ')
+emojis = {
+    ":)": "😃",
+    ":(": "😢"
 }
 output = ""
-for num in Phone_number:
-    output += Number.get(num, "!") + " "
+for word in words:
+    output+= emojis.get(word, word) + " "
 print(output)

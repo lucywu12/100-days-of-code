@@ -98,3 +98,13 @@ We did other things today, but here's the last thing I left off with:
 
 **Link(s) to work**:
 [1/2 Dictionaries](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+
+
+### Day 10: January 3, 2020, Sunday
+
+**Today's Progress**: Today I learned how to make an Emoji Converter! I'm up to 2:30:41 in Mosh's video (Project: Functions)
+
+**Thoughts**: Today's project was very fun! I now better understand how to use dictionaries. Thought it's been really difficult to make time to code (*procrastination*) I am still proud of making it this far and doing a little every day. Hopefully tomorrow I'll have a little more time. 
+
+**Link(s) to work**:
+[1/3 Emoji Converter](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

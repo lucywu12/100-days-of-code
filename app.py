@@ -1,11 +1,10 @@
-# 1/3 Emoji Converter
-message = input(">")
-words = message.split(' ')
-emojis = {
-    ":)": "😃",
-    ":(": "😢"
-}
-output = ""
-for word in words:
-    output+= emojis.get(word, word) + " "
-print(output)
+# 1/4 Functions + Parameters
+
+def greet_user(first_name, last_name):
+    print(f'Hi {first_name} {last_name}!')
+    print('Welcome aboard')
+
+
+print("Start")
+greet_user("John", "Smith")
+print("Finish")

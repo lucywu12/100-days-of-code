@@ -108,3 +108,12 @@ We did other things today, but here's the last thing I left off with:
 
 **Link(s) to work**:
 [1/3 Emoji Converter](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+
+
+### Day 11: January 4, 2020, Monday
+
+**Today's Progress**: Today I learned how about Functions and Parameters! I'm up to 2:39:35 in Mosh's video (Project: Keyword Arguments)
+
+**Thoughts**: A little too tired still, but making some progress. I have to say either 1. Mosh is a better teacher or 2. Python is really easy in comparison to some of the other languages I attempted to learn before because honestly this isn't too bad. I know it's a beginners course but it still feels nice that this isn't too much of a struggle to pick up and is pretty enjoyable and interesting to watch work.
+**Link(s) to work**:
+[1/4 Functions + Parameters](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

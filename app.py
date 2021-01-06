@@ -1,10 +1,16 @@
-# 1/4 Functions + Parameters
+# 1/5 Reusable Functions
 
-def greet_user(first_name, last_name):
-    print(f'Hi {first_name} {last_name}!')
-    print('Welcome aboard')
+def emoji_converter(message):
+    words = message.split(" ")
+    emojis = {
+        ":)": "😃",
+        ":(": "😭"
+    }
+    output = ""
+    for word in words:
+        output += emojis.get(word, word) + ""
+    return output
 
 
-print("Start")
-greet_user("John", "Smith")
-print("Finish")
+message = input(">")
+print(emoji_converter(message))

@@ -128,3 +128,13 @@ We did other things today, but here's the last thing I left off with:
 
 **Link(s) to work**:
 [1/5 More on Functions](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+
+
+### Day 13: January 6, 2020, Wednesday
+
+**Today's Progress**: Today I learned how to make my own classes and debug! I'm up to 3:08:00 in Mosh's video (Project: Constructors)
+
+**Thoughts**: Wow learning how to actually make classes was SUPER cool! Looking forward to coding when less sleep deprived :)
+
+**Link(s) to work**:
+[1/6 Classes](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

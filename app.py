@@ -1,16 +1,16 @@
-# 1/5 Reusable Functions
+# 1/6 Classes (Mosh's Example)
 
-def emoji_converter(message):
-    words = message.split(" ")
-    emojis = {
-        ":)": "😃",
-        ":(": "😭"
-    }
-    output = ""
-    for word in words:
-        output += emojis.get(word, word) + ""
-    return output
+numbers = [1, 2, 3]
+class Point
+    def move(self):
+        print("move")
+
+    def draw(self):
+        print("draw")
 
 
-message = input(">")
-print(emoji_converter(message))
+point1 = Point()
+point1.x = 10
+point1.x = 20
+print(point1.x)
+point1.draw()

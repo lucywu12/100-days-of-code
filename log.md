@@ -138,3 +138,13 @@ We did other things today, but here's the last thing I left off with:
 
 **Link(s) to work**:
 [1/6 Classes](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+
+
+### Day 14: January 7, 2020, Thursrday
+
+**Today's Progress**: Yay! Two week mark! Today I learned how to create Constructors and use them with Classes! I'm up to 3:14:54 in Mosh's video (Project: Inheritance)
+
+**Thoughts**: Still really sleepy... but pushing through! Classes are a bit confusing for me, I see what it does but doen't quite have the techinques and specifics of it all down yet.
+
+**Link(s) to work**:
+[1/7 Constructors](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

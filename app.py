@@ -1,14 +1,16 @@
-# 1/7 Constructors
+# 1/8 Inheritance
 
-class Person:
-    def __init__(self, name):
-        self.name = name
-    def talk(self):
-        print(f"Hi, I am {self.name}")
+numbers = [10, 3, 6, 2]
 
+import utils
 
-john = Person("John Smith")
-john.talk()
+print(utils.find_max(numbers))
 
-bob = Person("Bob Smith")
-bob.talk()
+------------------------------
+
+def find_max(numbers):
+    maximum = numbers[0]
+    for number in numbers:
+        if number > maximum:
+            maximum = number
+    return (maximum)

@@ -148,3 +148,13 @@ We did other things today, but here's the last thing I left off with:
 
 **Link(s) to work**:
 [1/7 Constructors](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+
+
+### Day 15: January 8, 2020, Friday
+
+**Today's Progress**: Yay! Two week mark! Today I learned how about Inheritance and Modules! I'm up to 3:30:28 in Mosh's video (Project: Packages)
+
+**Thoughts**: Today's lesson was super fun! I even got the exercise except the colon...
+
+**Link(s) to work**:
+[1/8 Inheritance + Modules](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

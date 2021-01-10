@@ -152,9 +152,19 @@ We did other things today, but here's the last thing I left off with:
 
 ### Day 15: January 8, 2020, Friday
 
-**Today's Progress**: Yay! Two week mark! Today I learned how about Inheritance and Modules! I'm up to 3:30:28 in Mosh's video (Project: Packages)
+**Today's Progress**: Yay! Two week mark! Today I learned about Inheritance and Modules! I'm up to 3:30:28 in Mosh's video (Project: Packages)
 
 **Thoughts**: Today's lesson was super fun! I even got the exercise except the colon...
 
 **Link(s) to work**:
 [1/8 Inheritance + Modules](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+
+
+### Day 16: January 9, 2020, Saturday
+
+**Today's Progress**: Today I learned about importing packages! I'm up to 3:38:36 in Mosh's video (Project: Generating Random Values)
+
+**Thoughts**: I didn't do anything too crazy today, but I thought this would be nice to just take a small break. Today's lesson made a lot of sense, and I hope to use the package feature in the future! (Importing packages and the structure of code makes a lot more sense to me in general now.)
+
+**Link(s) to work**:
+[1/9 Packages](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

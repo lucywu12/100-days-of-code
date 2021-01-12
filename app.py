@@ -1,12 +1,12 @@
-# 1/9 Packages
-# Method 1: import the package and file you need
-import ecommerce.shipping
-ecommerce.shipping.calc_shipping()
+# 1/11 Random Values
+import random
 
-# Method 2: import the specific function you need
-from ecommerce.shipping import calc_shipping
-calc_shipping()
+class Dice:
+    def roll(self):
+        rollone = random.randint(1, 6)
+        rolltwo = random.randint(1, 6)
+        return rollone, rolltwo
 
-# Method 3: import all of the functions in a specific file
-from ecommerce import shipping
-shipping.calc_shipping()
+
+dice = Dice()
+print(dice.roll())

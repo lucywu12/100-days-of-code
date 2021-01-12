@@ -168,3 +168,13 @@ We did other things today, but here's the last thing I left off with:
 
 **Link(s) to work**:
 [1/9 Packages](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+
+
+### Day 17: January 11, 2020, Monday
+
+**Today's Progress**: Today I learned about random values! I'm up to 3:44:36 in Mosh's video (Project: Working with Directories)
+
+**Thoughts**: I didn't do anything too crazy today, but I thought this would be nice to just take a small break. Today's lesson made a lot of sense, and I hope to use the package feature in the future! (Importing packages and the structure of code makes a lot more sense to me in general now.)
+
+**Link(s) to work**:
+[1/9 Packages](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

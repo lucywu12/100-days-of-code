@@ -178,3 +178,13 @@ We did other things today, but here's the last thing I left off with:
 
 **Link(s) to work**:
 [1/11 Random Values](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+
+
+### Day 18: January 12, 2020, Tuesday
+
+**Today's Progress**: Today I learned about searching through directories! I'm up to 3:51:06 in Mosh's video (Project: Pypi vs. Pip)
+
+**Thoughts**: Today's lesson was short but very cute! I'm looking forward to becoming better at navigating the mess that is my computer haha. I also hope to be able to automate my workflow a lot better using this ability of Python.
+
+**Link(s) to work**:
+[1/12 Directories](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

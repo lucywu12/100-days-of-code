@@ -1,12 +1,7 @@
-# 1/11 Random Values
-import random
+# 1/12 Directories
 
-class Dice:
-    def roll(self):
-        rollone = random.randint(1, 6)
-        rolltwo = random.randint(1, 6)
-        return rollone, rolltwo
+from pathlib import Path
 
-
-dice = Dice()
-print(dice.roll())
+path = Path("ecommerce")
+for file in path.glob('*.py'):
+    print(file)

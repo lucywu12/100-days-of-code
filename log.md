@@ -188,3 +188,13 @@ We did other things today, but here's the last thing I left off with:
 
 **Link(s) to work**:
 [1/12 Directories](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+
+
+### Day 19: January 13, 2020, Wednesday
+
+**Today's Progress**: Today I learned about searching pypi for more packages! I'm up to 3:56:13 in Mosh's video (Project: Excel Spreadsheets)
+
+**Thoughts**: I'M SO EXCITED FOR EXCEL SPREADSHEETS! I could really use some automation in my life! Today's lesson was short, but I'm really proud of making it 4 hours into this tutorial! Really looking forward to starting some projects now!
+
+**Link(s) to work**:
+[1/13 Pypi and Pip](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

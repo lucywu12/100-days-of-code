@@ -198,3 +198,13 @@ We did other things today, but here's the last thing I left off with:
 
 **Link(s) to work**:
 [1/13 Pypi and Pip](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+
+
+### Day 20: January 15, 2020, Friday
+
+**Today's Progress**: Today I learned about adding spreadsheets! I'm up to 3:58:37 in Mosh's video (Project: Excel Spreadsheets)
+
+**Thoughts**: I was really tired today :( But I'll be able to continue more tomorrow, today was light on coding and more heavy on understanding the mechanics.
+
+**Link(s) to work**:
+[1/15 Spreadsheet Automation](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

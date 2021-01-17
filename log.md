@@ -212,9 +212,9 @@ We did other things today, but here's the last thing I left off with:
 
 ### Day 21: January 16, 2020, Saturday
 
-**Today's Progress**: Today I learned about ! I'm up to 4:00:54 in Mosh's video (Project: Excel Spreadsheets)
+**Today's Progress**: Today I learned about methods to use for spreadsheets! I'm up to 4:00:54 in Mosh's video (Project: Excel Spreadsheets)
 
-**Thoughts**: I was really tired today :( But I'll be able to continue more tomorrow, today was light on coding and more heavy on understanding the mechanics.
+**Thoughts**: I was running into a lot of issues today with the excel spreadsheet, for some reason its not opening and is corrupted... maybe I have to install libreoffice? Pycharm refuses to recognize it and excel also won't open it... Not suprisingly the code isn't the hcallenging part, it's the file upload that always gets me.
 
 **Link(s) to work**:
 [1/16 Spreadsheet Automation cont.](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)

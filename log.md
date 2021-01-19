@@ -218,3 +218,13 @@ We did other things today, but here's the last thing I left off with:
 
 **Link(s) to work**:
 [1/16 Spreadsheet Automation cont.](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
+
+
+### Day 22: January 18, 2020, Monday
+
+**Today's Progress**: Today I learned about generating values and adding charts in spreadsheets! I'm up to 4:08:18 in Mosh's video (Project: Excel Spreadsheets)
+
+**Thoughts**: I finally got the Excel sheet to work! Turns out I was looking in the Mac folder which was kind of dumb on my part... However, I was able to generate sheets which was SO cool! I can't wait to use this in my everyday life. I'm not sure how to make it so that I can overwrite stuff already in an Excel doc, because I've just been deleting the old ones so I guess we'll have to find out...
+
+**Link(s) to work**:
+[1/18 Spreadsheet Automation cont.](https://github.com/lucywu12/100-days-of-code/blob/master/app.py)
